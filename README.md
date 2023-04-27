@@ -7,15 +7,16 @@ Projeto Desenvolvido na Caderia de Inteligência Artifical do Curso Ciência da 
 <table>
   <tr>
     <td align="center">
-        <img src="https://avatars.githubusercontent.com/u/" width="80px;" alt="Diego Leornado"/>
+    <a href="https://github.com/diego6699">
+        <img src="https://avatars.githubusercontent.com/u/65420105?v=4" width="80px;" alt="Diego Leornado"/>
         <br/>
         <sub>
             <b>Diego Leonardo</b>
         </sub>
 	</td>
     <td align="center">
-		<a href="https://github.com/">
-			<img src="https://avatars.githubusercontent.com/u/paulofreitas_py" width="80px;" alt="Paulo Freitas"/>
+		<a href="https://github.com/paulofreitas-py">
+			<img src="https://avatars.githubusercontent.com/u/42820569?v=4" width="80px;" alt="Paulo Freitas"/>
 			<br/>
 			<sub>
 				<b>Paulo Freitas</b>
